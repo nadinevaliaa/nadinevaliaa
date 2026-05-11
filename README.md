@@ -1,6 +1,6 @@
 ## Hello, I'm Nadine Valia 🌷
 
-![Nadine Valia](img/github-header-banner.png)
+![Nadine Valia](img/github-header-banner(4).png)
 
 
 I’m a Data Science student with a strong interest in data analysis, machine learning, and AI. Currently developing my skills in Python, SQL, R, and data visualization while strengthening my technical and analytical abilities. Passionate about continuous learning and exploring opportunities in data and technology.
