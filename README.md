@@ -16,4 +16,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vlzhraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadine-valia/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nadinevalia150@gmail.com)
 
 ##### My GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nadinevaliaa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=nadinevaliaa&theme=rose_pine&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadinevaliaa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api?username=nadinevaliaa&theme=omni&hide_border=false&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=nadinevaliaa&theme=omni&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadinevaliaa&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
