@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![https://instagram.com/vlzhraa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/nadine-valia/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadinevalia150@gmail.com)
 
 ##### My Github Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadinevaliaa&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=nadinevaliaa&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=nadinevaliaa&show_icons=true&theme=radical" />
 
