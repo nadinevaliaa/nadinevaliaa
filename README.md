@@ -15,4 +15,5 @@
 ##### Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vlzhraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadine-valia/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nadinevalia150@gmail.com)
 
-
+##### My GitHub Stats
+![Nadine's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadinevaliaa)
