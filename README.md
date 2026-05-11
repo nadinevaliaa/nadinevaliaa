@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-## Hello, I'm Nadine Valia 🌷
-=======
 ## Hello, I'm Nadine Valia Azzahra 🌷
->>>>>>> 7ea6c6fcc0a0620d17c29343fac8d82b2f742164
+
 
 ![Nadine Valia](img/github-header-banner.png)
 
