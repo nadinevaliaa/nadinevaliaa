@@ -1,4 +1,4 @@
-## Hello World! I'm Nadine Valia Azzahra 👋🏻
+## Hi! I'm Nadine Valia Azzahra 👋🏻
 
 ![Nadine Valia](img/github-header-banner.png)
 
