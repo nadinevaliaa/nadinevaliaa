@@ -14,4 +14,4 @@ I’m a Data Science student with a strong interest in data analysis, machine le
 
 #### My GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=nadinevaliaa&theme=omni&hide_border=true&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com?user=nadinevaliaa&theme=omni&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadinevaliaa&theme=omni&hide_border=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=nadinevaliaa&theme=omni&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadinevaliaa&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
